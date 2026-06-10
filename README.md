@@ -1,2 +1,2 @@
 # js-hindi
-a reoository for learning js 
+a repository for learning js 
